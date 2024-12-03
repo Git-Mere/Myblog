@@ -1,5 +1,5 @@
-_site
-.DS_Store
-*.swp
+*.gem
+.bundle
 .sass-cache
-*~
+_site
+Gemfile.lock
